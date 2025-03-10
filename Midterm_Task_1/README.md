@@ -9,7 +9,7 @@ Apply Data Validation to prevent incorrect entries.
 Check for outliers using Conditional Formatting.
 
 # Sample Output:
-**Step 1**
+**Screenshot Before Data Cleaning**
 <img width="959" alt="Anaya 1step" src="https://github.com/user-attachments/assets/025a1f2a-cf37-46b0-8e74-22adbc0879e2" />
 # Insert Image using img tag
 <img src="images/one.JPG" alt="Alt Text" width="400" height="300">
