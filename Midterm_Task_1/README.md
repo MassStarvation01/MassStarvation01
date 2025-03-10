@@ -1,6 +1,7 @@
 ### Midterm Lab Task 1
 For this task, we are given a flat data file from Excel (See raw file), and we need to perform Data Cleaning and Preparation.
 # STEP for Data Cleaning Process
+<img width="959" alt="Anaya 1step" src="https://github.com/user-attachments/assets/025a1f2a-cf37-46b0-8e74-22adbc0879e2" />
 - **Step One**: Select the column or table, then go to Data → Remove Duplicates to clean duplicates.
 Use Filter to find empty cells and remove or fill missing data appropriately. 
 - **Step Two**: Format all dates, numbers, and text to be consistent. Use TRIM() to remove extra spaces and PROPER() to standardize capitalization.
