@@ -13,8 +13,8 @@ Hi I my name is kaloy
 
 Task1.md
 # Midterm Lab Task 1
-This task is. . . . 
-# STEP 1. Data Cleaning Process
+This task is for...
+# STEP for Data Cleaning Process
 - Step One: Select the column or table, then go to Data → Remove Duplicates to clean duplicates.
 Use Filter to find empty cells and remove or fill missing data appropriately. 
 - Step Two: Format all dates, numbers, and text to be consistent. Use TRIM() to remove extra spaces and PROPER() to standardize capitalization.
