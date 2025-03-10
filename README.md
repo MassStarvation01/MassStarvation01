@@ -1,7 +1,8 @@
 ### EDM-Activities-MassStarvation01-
 This is my Repo
 ### About Me
-Hi I my name is kaloy
+Hi! my name is Kaloy Anaya, a dedicated logistics professional working at FedEx. I specialize in cargo handling,
+shipment processing, and supply chain operations.
 ### Education:
 - College: City College of Angeles (BSIS)
 - High School: San Juan High School
