@@ -11,7 +11,8 @@ Check for outliers using Conditional Formatting.
 # Sample Output:
 **Screenshot Before Data Cleaning**
 <img width="959" alt="Anaya 1step" src="https://github.com/user-attachments/assets/025a1f2a-cf37-46b0-8e74-22adbc0879e2" />
-# Insert Image using img tag
-<img src="images/one.JPG" alt="Alt Text" width="400" height="300">
+**Screenshot After Data Cleaning**
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/ff07c680-30ed-47f6-a926-e74ad03229e6" />
+
 
 **
