@@ -5,8 +5,6 @@ Hi! my name is Kaloy Anaya, a dedicated logistics professional working at FedEx.
 shipment processing, and supply chain operations.
 ### Education:
 - College: City College of Angeles (BSIS)
-- High School: San Juan High School
-- Elementary:
 ### My Activities
 - Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/task1.md)
 - Midterm Lab Task 2:[Data Cleaning and Transformation using POWER QUERY]
